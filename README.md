@@ -1,3 +1,3 @@
 # Hactoberfest
 
-balle balle shava shava
+This is a starting point for many C++ enthusiats. Start coding now!!
